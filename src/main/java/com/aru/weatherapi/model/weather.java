@@ -12,21 +12,6 @@ public class weather {
         this.city = city;
     }
 
-    public void setTemperature(double temperature) {
-        this.temperature = temperature;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
-
-    public double getTemperature() {
-        return temperature;
-    }
-
-    public String getCity() {
-        return city;
-    }
 }
 
 
